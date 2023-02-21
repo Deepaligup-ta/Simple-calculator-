@@ -1,5 +1,5 @@
 console.log(
-  "Javascript Calculator Made by Harsh Trivedi\nhttps://harsh98trivedi.github.io"
+  "Javascript Calculator Made by Deepali Gupta"
 );
 let flag = 0;
 function isNumber(char) {
